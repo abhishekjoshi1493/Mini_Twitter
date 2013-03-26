@@ -1,6 +1,5 @@
-<?php
-	session_start();
-?>
+<?php require_once("include/connection.php"); ?>
+<?php require_once("include/session.php"); ?>
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="login_signup_css.css">
